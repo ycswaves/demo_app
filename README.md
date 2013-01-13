@@ -1,0 +1,1 @@
+This is a demo-app for Ruby on Rails tutorial
